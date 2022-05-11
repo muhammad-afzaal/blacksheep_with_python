@@ -9,6 +9,7 @@ from .errors import configure_error_handlers
 from .routes import configure_routes
 
 
+
 def configure_application(
     services: Container,
     context: ServicesRegistrationContext,
