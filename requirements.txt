@@ -1,0 +1,8 @@
+black
+blacksheep
+uvicorn
+uvloop==0.14.0; platform_system != "Windows"
+flake8
+mypy
+mypy-extensions
+roconfiguration
